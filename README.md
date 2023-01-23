@@ -1,7 +1,7 @@
 # This Side of Paradise
 An analysis of architects' salary while I'm preparing for interview
 
-***  🔨 Under Construction Now 🏗️ ***
+***🔨 Under Construction Now 🏗️***
 
 I make this repo public to be accountable, hence it will be a hot mess for one week or so :)
  
