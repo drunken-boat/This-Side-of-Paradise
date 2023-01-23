@@ -6,4 +6,4 @@ This Side of Paradise is the novel by American writer F. Scott Fitzgerald, a maj
 
 - definition of architects here also includes landscape architects, urban designers, and urban planners, etc. 
 
-I'll revisit some technical interview questions(e.g., EDA) in this analysis as well.
+- I'll revisit some technical interview questions(e.g., EDA) in this analysis as well.
