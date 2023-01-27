@@ -1,5 +1,7 @@
 
 *.xlsx
 *.csv
-geocoord-master/README.md
+
 .vscode/settings.json
+centroids.md
+cn_stopwords.txt

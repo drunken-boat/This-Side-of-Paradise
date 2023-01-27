@@ -19,9 +19,14 @@ This theme properly describes a lots of architects' feelings when they find the 
 Definition of architects here: includes landscape architects, urban designers, and urban planners, etc. Because (at least in China) these majors are all under the architecture category in universities.
 
 ## Data source
-A shared excel file, architects inputting their salary-related information anonymously.
+1. A shared excel file, architects inputting their salary-related information anonymously.
 > The original data is not MIT License and I don't own the right to commit it in this repo. 
 If you are interested in this data, please directly contact WeChat Official Acount [建筑透明性](https://mp.weixin.qq.com/s/AEFNmtd_lDZpfYhcI2PkAA) at the bottom of this blog.
+
+2. cn_stopwords.txt (Chinese stopwords in the NLP part) -  goto456.2020.stopwords.https://github.com/goto456/stopwords/
+
+3. centroids.md (Chinese province centroids in the interactive map part) - siliushi.2015.geocoord.https://github.com/siliushi/geocoord
+
 
 ## Techniques used
 
