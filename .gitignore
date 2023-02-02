@@ -1,7 +1,7 @@
 
 *.xlsx
 *.csv
-
+*.xml
 .vscode/settings.json
 centroids.md
 cn_stopwords.txt
